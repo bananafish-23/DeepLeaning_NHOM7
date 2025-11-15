@@ -1,0 +1,24 @@
+# Backend Framework
+fastapi
+uvicorn[standard]
+
+# Frontend Framework
+streamlit
+
+# AI & Machine Learning
+torch
+transformers
+scikit-learn
+pandas
+
+# Google APIs & Web
+requests
+google-api-python-client
+google-auth-oauthlib
+
+# --- THÊM MỚI ---
+# Database
+pymongo
+
+# Quản lý Biến môi trường
+python-dotenv
